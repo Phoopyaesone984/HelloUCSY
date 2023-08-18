@@ -1,0 +1,26 @@
+#wrapper{
+
+
+}
+
+#nav{
+
+
+}
+#nav ul{
+
+	list-style-type: none;
+
+}
+#nav a{
+	text-decoration: none;
+}
+#nav a:link{
+	color: ;
+}
+#nav a:hover{
+	color: ;
+}
+#nav a:active{
+	color: ;
+}
